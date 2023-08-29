@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3033],{3033:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var u=t(85893);function a(){return(0,u.jsx)("div",{className:"container mx-auto bg-gray-20 rounded-lg animate-pulse",style:{height:"75vh"}})}}}]);
